@@ -39,5 +39,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         
     }
 }
-
+    
+    @IBAction func HiddenTestbutton(_ sender: Any) {
+    }
 }
